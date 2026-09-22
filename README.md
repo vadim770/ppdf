@@ -18,15 +18,19 @@
    ### Installation
 
    1. Clone the repository:
-     git clone [<repository-url>](https://github.com/vadim770/ppdf)
-     cd ppdf
-
+      ```bash
+      git clone https://github.com/vadim770/ppdf
+      cd ppdf
+      ```
 
    2. Install dependencies:
-     npm install
+      ```bash
+      npm install
+      ```
 
    3. Start the server:
-     npm run dev
+      ```bash
+      npm run dev
+      ```
 
-   Open [http://localhost:5173](http://localhost:5173) in your browser.
-   
+   Open [http://localhost:5173](http://localhost:5173) in your browser and start editing.
